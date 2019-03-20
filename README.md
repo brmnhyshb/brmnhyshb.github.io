@@ -1,2 +1,2 @@
 # brmnhyshb.github.io
-Personal Homepage
+个人博客
